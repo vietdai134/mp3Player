@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyMusicPlayer</string>
+    <string name="back">Quay lại</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="timeline">00:00</string>
+    <string name="skip_back">Bài trước</string>
+    <string name="skip_forward">Bài kế tiếp</string>
+</resources>
